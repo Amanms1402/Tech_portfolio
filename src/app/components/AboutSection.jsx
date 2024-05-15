@@ -57,6 +57,7 @@ const TAB_DATA = [
         <li><a href="https://drive.google.com/file/d/1DFBKdMpSiPcSBpXo2AtEvefrHvicTKXt/view?usp=sharing">HackerRank Certified Python Coder | HackerRank</a></li>
         <li><a href="https://drive.google.com/file/d/1iOzb_kBySDKagO5yBAkd44sOCXN3zo6x/view?usp=sharing">Google Cloud Computing Foundation | Google Cloud</a></li>
         <li><a href="https://drive.google.com/file/d/1Xv8rZJZNk3kk_qymTpKR_9WQ6HvbuPcW/view?usp=sharing">The Bits and Bytes Of Computer Networking | Coursera</a></li>
+        <li><a href="https://drive.google.com/file/d/1RGXi8HYOl18736QqgWic4-uwYQTg5dVj/view?usp=sharing">Cloud Computing | NPTEL</a></li>
       </ul>
     ),
   }
